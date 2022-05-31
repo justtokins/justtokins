@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Warmate tokini 
 - 👀 I’m interested in Machine learning, 
-     Software engineering, and DevOps 
+     Software engineering, and DevOps
+-🕸 I have 3 years of ML development experience using Python and c++
+    With keras, pytorch and tensorflow 
 - 🌱 I’m currently learning software engineering 
      Using Python programming language
 - 💞️ I’m looking to collaborate on as many projects as possible
