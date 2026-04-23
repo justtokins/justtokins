@@ -1,13 +1,4 @@
-- 👋 Hi, I’m Warmate tokini 
-- 👀 I’m interested in Machine learning, 
-     Software engineering, and DevOps
--🕸 I have 3 years of ML development experience using Python and c++
-    With keras, pytorch and tensorflow 
-- 🌱 I’m currently learning software engineering 
-     Using Python programming language
-- 💞️ I’m looking to collaborate on as many projects as possible
-     to boost my resume and improve my skill set
-- 📫 How to reach me?? Hit me up on Whatsapp @ +234 8085 858 823
+ Hello Warmate here, if you have questions or just want to chat Hit me up on Whatsapp @ +234 7041969053, justtokins@gmail.com
 
 <!---
 justtokins/justtokins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
